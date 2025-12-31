@@ -1,0 +1,70 @@
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.staticwebassets.endpoints.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.exe
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.deps.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.runtimeconfig.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.pdb
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.csproj.AssemblyReference.cache
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.AssemblyInfoInputs.cache
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.AssemblyInfo.cs
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.csproj.CoreCompileInputs.cache
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\scopedcss\bundle\BlogAPI.styles.css
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.csproj.Up2Date
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\refint\BlogAPI.dll
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.pdb
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.genruntimeconfig.cache
+C:\Users\iT HOME\Desktop\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\ref\BlogAPI.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\appsettings.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.staticwebassets.endpoints.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.exe
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.deps.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.runtimeconfig.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\BlogAPI.pdb
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.csproj.AssemblyReference.cache
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.AssemblyInfoInputs.cache
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.AssemblyInfo.cs
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.csproj.CoreCompileInputs.cache
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\scopedcss\bundle\BlogAPI.styles.css
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.csproj.Up2Date
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\refint\BlogAPI.dll
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.pdb
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\BlogAPI.genruntimeconfig.cache
+D:\QLIQ INTERNSHIP\BACKEND\BlogAPI\obj\Debug\net9.0\ref\BlogAPI.dll
